@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Wiktor Poniewierski i",
+  "author": "Wiktor Poniewierski",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "browser-sync": "^2.26.14",
