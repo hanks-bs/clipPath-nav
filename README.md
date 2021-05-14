@@ -11,6 +11,7 @@ The project shows navigation using the 'gsap' animation and the clip-path featur
 ## Technologies
 Project is created with:
 * <a href="https://greensock.com/">Greensock</a>
+* <a href="https://gulpjs.com/">Gulp</a>
 * Javascript
 * HTML
 * CSS/SCSS
