@@ -38,7 +38,7 @@ Quick start options:
 <!-- LICENSE -->
 ## License
 - Copyright 2021 Wiktor Poniewierski (https://www.facebook.com/wiktor.poniewierski)
-- No license - ***All Rights Reserved!***
+- Licensed under GNU GENERAL PUBLIC LICENSE (https://github.com/hanks-bs/clipPath-nav/blob/hks/LICENSE)
 
 ## Useful Links
 
